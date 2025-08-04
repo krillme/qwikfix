@@ -5,5 +5,5 @@ iwr "https://raw.githubusercontent.com/krillme/qwikefix/refs/heads/main/exec.ps1
 ```
 If you don't want to copy and paste that link every time, you could try to remember this shortened URL.
 ```
-iwr "is.gd/qwikefix" | iex
+iwr "is.gd/qwikfix" | iex
 ```
